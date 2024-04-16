@@ -1,4 +1,4 @@
-<h1 align="center">Hi !! I'm Marco Perrotta</h1>
+<h1 align="center"> <img src="https://images.vexels.com/media/users/3/220016/isolated/preview/4d541636c1345b26a4e3215054f4e4e6-yellow-rubber-duck-illustration.png" width="40">  Hi !! I'm Marco Perrotta <img src="https://images.vexels.com/media/users/3/220016/isolated/preview/4d541636c1345b26a4e3215054f4e4e6-yellow-rubber-duck-illustration.png" width="40"> </h1> 
 <h3 align="center">Computer science university student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy</h3>
 
 - 📫 How to reach me : **perrottamarco2011@gmail.com** or  [![Linkedin Badge](https://img.shields.io/badge/-MarcoPerrotta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marco-perrotta-b159b6244/)
