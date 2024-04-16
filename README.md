@@ -16,4 +16,4 @@
 
 ---
 
-<div align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Perro2110&show_icons=true&locale=en&layout=compact" alt="Perro2110" /></div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Perro2110&theme=tokyonight)
