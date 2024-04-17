@@ -15,7 +15,6 @@
 <a href="https://it.wikipedia.org/wiki/Fortran" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_fortran_icon_130596.png" alt="Fortran" width="45" height="45"/></a>
 
 ---
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Perro2110&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Perro2110&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
