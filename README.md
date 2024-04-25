@@ -1,4 +1,6 @@
 
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQHZOqPmAhu62Q/profile-displaybackgroundimage-shrink_350_1400/0/1714065493395?e=1719446400&v=beta&t=d7YJN2elYA1EnUjlGtt9Hu4VHcXxJucDOsCRo-vm8ao)](https://www.linkedin.com/in/marco-perrotta-b159b6244/)
+
 <h1 align="center"> <img src="https://images.vexels.com/media/users/3/220016/isolated/preview/4d541636c1345b26a4e3215054f4e4e6-yellow-rubber-duck-illustration.png" width="40">  Hello World! I'm Marco Perrotta <img src="https://images.vexels.com/media/users/3/220016/isolated/preview/4d541636c1345b26a4e3215054f4e4e6-yellow-rubber-duck-illustration.png" width="40"> </h1> 
 <h3 align="center">Computer science university student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy</h3>
 
