@@ -17,7 +17,7 @@
                               --------
                               Email: "perrottamarco2011@gmail.com"
                               Linkedin: "https://www.linkedin.com/in/marco-perrotta-b159b6244/"
-                              Reddit: " DarkAltruistic9560"
+                              Reddit: "DarkAltruistic9560"
 ```
 ---
 
