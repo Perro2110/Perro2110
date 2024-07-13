@@ -3,9 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=perro2110&label=Profile%20views&color=0e75b6&style=flat" alt="perro2110" /></p>
 
-- 📫 How to reach me: **perrottamarco2011@gmail.com** or  [![Linkedin Badge](https://img.shields.io/badge/-MarcoPerrotta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marco-perrotta-b159b6244/)
-- ⚡ Fun fact: **I like to understand the logic of things**
+## biglietto da visita
+```hs
+                              👋 Perro2110
+                              ------------------
+             \\               Uptime: "21 years"
+             (o>              Position: "Ferrara, Italy"
+          \\_//)              Languages: ["Haskell", "C", "PHP", "Java","etc..."]
+           \_/_)              OS: "Ubuntu 22.04.4 LTS on Windows 10 x86_64"
+            _|_               Hobby: "Logic for Computer Science" && "Machine Learning"
 
+                              📫 How_to_reach_me
+                              --------
+                              Email: "perrottamarco2011@gmail.com"
+                              Linkedin: "https://www.linkedin.com/in/marco-perrotta-b159b6244/" 
+```
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
