@@ -1,9 +1,9 @@
-<h1 align="center"> <img src="https://images.vexels.com/media/users/3/220016/isolated/preview/4d541636c1345b26a4e3215054f4e4e6-yellow-rubber-duck-illustration.png" width="40">  <a href="https://www.linkedin.com/in/marco-perrotta-b159b6244"><img src="http://readme-typing-svg.herokuapp.com?weight=800&size=25&duration=2500&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello+World!+;I'm+Marco+Perrotta" alt="Typing SVG" /></a> <img src="https://images.vexels.com/media/users/3/220016/isolated/preview/4d541636c1345b26a4e3215054f4e4e6-yellow-rubber-duck-illustration.png" width="40"> </h1> 
-<h3 align="center">Computer science university student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy</h3>
+<h1 align="center"> <img src="https://static.wikia.nocookie.net/pizzatower/images/1/12/Doug.png/revision/latest?cb=20230403222258" width="40">  <a href="https://www.linkedin.com/in/marco-perrotta-b159b6244"><img src="http://readme-typing-svg.herokuapp.com?weight=800&size=25&duration=2500&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello+World!+;I'm+Marco+Perrotta" alt="Typing SVG" /></a> <img src="https://static.wikia.nocookie.net/pizzatower/images/1/12/Doug.png/revision/latest?cb=20230403222258" width="40"> </h1> 
+<h3 align="center">Computer science university student <img src="https://static.wikia.nocookie.net/pizzatower/images/9/97/PizzardMagic.gif/revision/latest?cb=20200604203746" width="50"> from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=perro2110&label=Profile%20views&color=0e75b6&style=flat" alt="perro2110" /></p>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Biglietto da visita
+## <img src="https://static.wikia.nocookie.net/pizzatower/images/a/a2/Cutie_alert.gif/revision/latest?cb=20200222064706" width="50"> Biglietto da visita
 ```hs
                               👋 Perro2110
                               ------------------
@@ -21,8 +21,7 @@
                               
 ```
 ---
-
-### :hammer_and_wrench: Languages and Tools :
+## <img src="https://static.wikia.nocookie.net/pizzatower/images/2/2a/The_power_of_pizzaface_compels_you.gif/revision/latest?cb=20200710040919" width="50"> Languages and Tools :
 
 <div align = "center">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://developer.android.com/images/logos/android.svg" alt="android" width="45" height="45"/></a>
