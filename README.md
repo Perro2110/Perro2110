@@ -7,17 +7,18 @@
 ```hs
                               👋 Perro2110
                               ------------------
-             \\               Uptime: "21 years"
-             (o>              Position: "Ferrara, Italy"
-          \\_//)              Languages: ["Haskell", "C", "PHP", "Java","etc..."]
-           \_/_)              OS: "Ubuntu 22.04.4 LTS on Windows 10 x86_64"
-            _|_               Hobby: "Logic for Computer Science" && "Machine Learning"
-
-                              📫 How_to_reach_me
-                              --------
-                              Email: "perrottamarco2011@gmail.com"
-                              Linkedin: "https://www.linkedin.com/in/marco-perrotta-b159b6244/"
+                              Uptime: "21 years"
+       )  (                   Position: "Ferrara, Italy"
+      (   ) )                 Languages: ["Haskell", "C", "PHP", "Java","etc..."]
+       ) ( (                  OS: "Ubuntu 22.04.4 LTS on Windows 10 x86_64"
+     _______)_                Hobby: "Logic for Computer Science" && "Machine Learning"
+  .-'---------|
+ ( C|/\/\/\/\/|               📫 How_to_reach_me
+  '-./\/\/\/\/|               --------
+    '_________'               Email: "perrottamarco2011@gmail.com"
+     '_______'                Linkedin: "https://www.linkedin.com/in/marco-perrotta-b159b6244/"
                               Reddit: "DarkAltruistic9560"
+                              
 ```
 ---
 
