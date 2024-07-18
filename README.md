@@ -9,7 +9,7 @@
                               ------------------
                               Uptime: "21 years"
        )  (                   Position: "Ferrara, Italy"
-      (   ) )                 My favorite language: ["Haskell","C","Julia","PHP","Java","etc..."]
+      (   ) )                 My favorite language: ["Haskell","C","PHP","Java","etc..."]
        ) ( (                  OS: "Ubuntu 22.04.4 LTS on Windows 10 x86_64"
      _______)_                Hobby: "Logic for Computer Science" && "Machine Learning"
   .-'---------|
