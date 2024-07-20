@@ -9,19 +9,18 @@
                               ------------------
                               Uptime: "21 years"
        )  (                   Position: "Ferrara, Italy"
-      (   ) )                 MyFavoriteLanguage: ["Julia","Haskell","C","PHP","Java","etc..."]
-       ) ( (                  OS: "Ubuntu 22.04.4 LTS on Windows 10 x86_64"
-     _______)_                Hobby: "Logic for Computer Science" && "Machine Learning"
-  .-'---------|
- ( C|/\/\/\/\/|               📫 How_to_reach_me
-  '-./\/\/\/\/|               --------
-    '_________'               Email: "perrottamarco2011@gmail.com"
-     '_______'                Linkedin: "https://www.linkedin.com/in/marco-perrotta-b159b6244/"
-                              Reddit: "DarkAltruistic9560"
-                              
+      (   ) )                 OS: "Ubuntu 22.04.4 LTS on Windows 10 x86_64"
+       ) ( (                  Hobby: "Logic for Computer Science" && "Machine Learning"
+     _______)_                
+  .-'---------|               📫 How_to_reach_me
+ ( C|/\/\/\/\/|               --------
+  '-./\/\/\/\/|               Email: "perrottamarco2011@gmail.com"
+    '_________'               Linkedin: "https://www.linkedin.com/in/marco-perrotta-b159b6244/"
+     '_______'                Reddit: "DarkAltruistic9560"
+                                                    
 ```
 ---
-## <img src="https://static.wikia.nocookie.net/pizzatower/images/2/2a/The_power_of_pizzaface_compels_you.gif/revision/latest?cb=20200710040919" width="50"> Languages and Tools :
+## <img src="https://static.wikia.nocookie.net/pizzatower/images/2/2a/The_power_of_pizzaface_compels_you.gif/revision/latest?cb=20200710040919" width="50"> My Favorite Language and Tools :
 
 <div align = "center">
   
