@@ -20,7 +20,7 @@
                                                     
 ```
 ---
-## <img src="https://static.wikia.nocookie.net/pizzatower/images/2/2a/The_power_of_pizzaface_compels_you.gif/revision/latest?cb=20200710040919" width="50"> My Favorite Language and Tools :
+## <img src="https://static.wikia.nocookie.net/pizzatower/images/2/2a/The_power_of_pizzaface_compels_you.gif/revision/latest?cb=20200710040919" width="50"> Language and Tools :
 
 <div align = "center">
   
