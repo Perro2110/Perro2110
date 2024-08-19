@@ -7,7 +7,7 @@
 ```hs
                               👋 Marco Perrotta
                               ------------------
-                              Uptime: "21 years"
+                              Uptime: "20 years"
        )  (                   Position: "Ferrara, Italy"
       (   ) )                 OS: "Lubuntu 22.04.4"  
        ) ( (                  Hobby: "Logic for Computer Science" && "Machine Learning"
