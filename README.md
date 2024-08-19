@@ -9,7 +9,7 @@
                               ------------------
                               Uptime: "21 years"
        )  (                   Position: "Ferrara, Italy"
-      (   ) )                 OS: "Ubuntu 22.04.4 LTS" Codename: "jammy"  
+      (   ) )                 OS: "Lubuntu 22.04.4"  
        ) ( (                  Hobby: "Logic for Computer Science" && "Machine Learning"
      _______)_                
   .-'---------|               📫 How_to_reach_me
