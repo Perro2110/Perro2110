@@ -9,7 +9,7 @@
                               ------------------
                               Uptime: "20 years"
        )  (                   Position: "Ferrara, Italy"
-      (   ) )                 OS: "Lubuntu 22.04.4"  
+      (   ) )                 OS: "Manjaro Linux x86_64"  
        ) ( (                  Hobby: "Logic for Computer Science" && "Machine Learning"
      _______)_                
   .-'---------|               📫 How_to_reach_me
