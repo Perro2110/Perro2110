@@ -9,8 +9,8 @@
                               ------------------
                               Uptime: "20 years"
        )  (                   Position: "Ferrara, Italy"
-      (   ) )                 OS: "Manjaro Linux x86_64"  
-       ) ( (                  Hobby: "Logic for Computer Science" && "Machine Learning"
+      (   ) )                 Main_OS: "Manjaro Linux x86_64"  
+       ) ( (                  Hobby: "Playing with different OS" ∧ "Logic for computer science" ∧ "Machine learning"
      _______)_                
   .-'---------|               📫 How_to_reach_me
  ( C|/\/\/\/\/|               --------
