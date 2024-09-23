@@ -9,14 +9,14 @@
                               ------------------
                               Uptime: "20 years"
        )  (                   Position: "Ferrara, Italy"
-      (   ) )                 Main_OS: "Manjaro Linux x86_64"  
-       ) ( (                  Hobby: "Playing with different OS" ∧ "Logic for computer science" ∧ "Machine learning"
-     _______)_                
-  .-'---------|               📫 How_to_reach_me
- ( C|/\/\/\/\/|               --------
-  '-./\/\/\/\/|               Email: "perrottamarco2011@gmail.com"
-    '_________'               Linkedin: "https://www.linkedin.com/in/marco-perrotta-b159b6244/"
-     '_______'                Reddit: "DarkAltruistic9560"
+      (   ) )                 Hobby: "Playing with different OS" ∧ "Logic for computer science" ∧ "Machine learning" 
+       ) ( (                  
+     _______)_                📫 How_to_reach_me
+  .-'---------|               --------
+ ( C|/\/\/\/\/|               Email: "perrottamarco2011@gmail.com"
+  '-./\/\/\/\/|               Linkedin: "https://www.linkedin.com/in/marco-perrotta-b159b6244/"
+    '_________'               Reddit: "DarkAltruistic9560"
+     '_______'                
                                                     
 ```
 ---
