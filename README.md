@@ -7,7 +7,7 @@
 ```hs
                               👋 Marco Perrotta
                               ------------------
-                              Uptime: "20 years"
+                              Uptime: "21 years"
        )  (                   Position: "Ferrara, Italy"
       (   ) )                 Hobby: "Playing with different OS" ∧ "Logic for computer science" ∧ "Machine learning" 
        ) ( (                  
