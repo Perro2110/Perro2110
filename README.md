@@ -19,8 +19,8 @@
      '_______'                
 
 ---------------------------------------------------------------------------------------------------------------------------------
- "Currently, I am working in the Applied Computational Logic and Artificial Intelligence (ACLAI) Laboratory of the Department of
- Mathematics and Computer Science, University of Ferrara, focusing on the development of the SOLE (SymbOlic LEarning) framework." 
+"Currently, I am working in the Applied Computational Logic and Artificial Intelligence (ACLAI) Laboratory of the Department of
+Mathematics and Computer Science, University of Ferrara, focusing on the development of the SOLE (SymbOlic LEarning) framework." 
 ```
 ---
 ## <img src="https://static.wikia.nocookie.net/pizzatower/images/2/2a/The_power_of_pizzaface_compels_you.gif/revision/latest?cb=20200710040919" width="50"> Language and Tools :
