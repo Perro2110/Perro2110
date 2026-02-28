@@ -1,4 +1,22 @@
-<h1 align="center"> <img src="https://images.vexels.com/media/users/3/220016/isolated/preview/4d541636c1345b26a4e3215054f4e4e6-yellow-rubber-duck-illustration.png" width="50">  <a href="https://www.linkedin.com/in/marco-perrotta-b159b6244"><img src="http://readme-typing-svg.herokuapp.com?weight=800&size=37&duration=2500&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello+World!+;I'm+Marco+Perrotta" alt="Typing SVG" /></a><img src="https://images.vexels.com/media/users/3/220016/isolated/preview/4d541636c1345b26a4e3215054f4e4e6-yellow-rubber-duck-illustration.png" width="50"> </h1> 
+<h1 align="center">
+  <img src="https://images.vexels.com/media/users/3/220016/isolated/preview/4d541636c1345b26a4e3215054f4e4e6-yellow-rubber-duck-illustration.png" width="50">
+
+  <picture>
+    <!-- Tema scuro → testo bianco -->
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="http://readme-typing-svg.herokuapp.com?weight=800&size=37&duration=2500&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello+World!+;I'm+Marco+Perrotta"
+    />
+    <!-- Tema chiaro → testo nero -->
+    <img 
+      src="http://readme-typing-svg.herokuapp.com?weight=800&size=37&duration=2500&pause=1000&color=000000&center=true&width=435&lines=Hello+World!+;I'm+Marco+Perrotta" 
+      alt="Typing SVG" 
+    />
+  </picture>
+
+  <img src="https://images.vexels.com/media/users/3/220016/isolated/preview/4d541636c1345b26a4e3215054f4e4e6-yellow-rubber-duck-illustration.png" width="50">
+</h1>
+
 <h3 align="center">Computer science university student <img src="https://static.wikia.nocookie.net/pizzatower/images/9/97/PizzardMagic.gif/revision/latest?cb=20200604203746" width="50"> from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=perro2110&label=Profile%20views&color=0e75b6&style=flat" alt="perro2110" /> </p>
