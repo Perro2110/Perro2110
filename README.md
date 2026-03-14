@@ -16,46 +16,152 @@
 
   <img src="https://images.vexels.com/media/users/3/220016/isolated/preview/4d541636c1345b26a4e3215054f4e4e6-yellow-rubber-duck-illustration.png" width="50">
 </h1>
-
-<h3 align="center">Computer science university student <img src="https://static.wikia.nocookie.net/pizzatower/images/9/97/PizzardMagic.gif/revision/latest?cb=20200604203746" width="50"> from Italy</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=perro2110&label=Profile%20views&color=0e75b6&style=flat" alt="perro2110" /> </p>
 <p align="center">
-<img src="https://img.shields.io/badge/University-Ferrara-blue?style=for-the-badge" alt="University of Ferrara"/>
-<img src="https://img.shields.io/badge/Language-Julia-9558B2?style=for-the-badge&logo=julia" alt="Julia"/>
-<img src="https://img.shields.io/badge/Focus-Symbolic_AI-orange?style=for-the-badge" alt="Symbolic AI"/>
-<img src="https://img.shields.io/badge/License-Open_Source-green?style=for-the-badge" alt="Open Source"/>
+  <img src="https://komarev.com/ghpvc/?username=perro2110&label=Profile+views&color=534AB7&style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/University-Ferrara-7F77DD?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Symbolic_AI-1D9E75?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/License-Open_Source-BA7517?style=flat-square" />
 </p>
 
-
-## <img src="https://static.wikia.nocookie.net/pizzatower/images/a/a2/Cutie_alert.gif/revision/latest?cb=20200222064706" width="50"> Biglietto da visita
-```hs
-                              👋 Marco Perrotta
-                              ------------------
-                              Uptime: "21 years"
-       )  (                   MyFavouriteLanguage: "Gleam" ∧ "C" ∧ "Julia" ∧ "Haskell"
-      (   ) )                 Hobby: "Playing with different OS" ∧ "Logic for computer science" ∧ "Machine learning" 
-       ) ( (                  
-     _______)_                📫 How_to_reach_me
-  .-'---------|               --------
- ( C|/\/\/\/\/|               Email: "perrottamarco2011@gmail.com"
-  '-./\/\/\/\/|               Linkedin: "https://www.linkedin.com/in/marco-perrotta-b159b6244/"
-    '_________'               Reddit: "DarkAltruistic9560"
-     '_______'                
-
------------------------------------------------------------------------------------------------------------------------------------
- "Currently, I am working in the Applied Computational Logic and Artificial Intelligence (ACLAI) Laboratory of the Department of
-  Mathematics and Computer Science, University of Ferrara, focusing on the development of the SOLE (SymbOlic LEarning) framework." 
-```
 ---
-## <img src="https://static.wikia.nocookie.net/pizzatower/images/2/2a/The_power_of_pizzaface_compels_you.gif/revision/latest?cb=20200710040919" width="50"> Language and Tools :
 
-<div align = "center">
+## `data Developer`
 
-<a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://go.dev/doc/gopher/gopherdrink.png" alt="Go" width="55" height="55"/></a>
-  <a href="https://gleam.run" target="_blank" rel="noreferrer"><img src="https://gleam.run/images/lucy/lucy.svg" alt="Gleam" width="55" height="55"/></a><a href="https://julialang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Perro2110/Perro2110/blob/main/waving-flag.gif" alt="Julia" width="55" height="55"/></a><a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="45" height="45"/></a><a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://developer.android.com/images/logos/android.svg" alt="android" width="45" height="45"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="bash" width="45" height="45"/></a> <a href="https://courses.missouristate.edu/kenvollmar/mars/download.htm" target="_blank" rel="noreferrer"><img src="https://www.robertwinkler.com/projects/mips_book/images/mips_book.png" alt="Mars" width="45" height="45"/></a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/></a><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/></a> <a href="https://github.com/tmux/tmux/wiki" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tmux.svg" alt="tmux" width="45" height="45"/></a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="45" height="45"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="Php" width="45" height="45"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://www.geekandjob.com/uploads/wiki/31157387f2ac17b4f700bc4c4c9e8a66.png" alt="css3" width="40" height="45"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html5" width="45" height="45"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="45" height="45"/></a> <a href="https://it.wikipedia.org/wiki/Structured_Query_Language" target="_blank" rel="noreferrer"><img src="https://static.vecteezy.com/system/resources/thumbnails/036/044/336/small_2x/sql-database-icon-logo-design-ui-or-ux-app-png.png" alt="SQL" width="85" height="85"/></a> <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"><img src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg" alt="mysql workbench" width="45" height="45"/></a> <a href="https://www.r-project.org/about.html#:~:text=Introduction%20to%20R,by%20John%20Chambers%20and%20colleagues." target="_blank" rel="noreferrer"><img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="45" height="45"/></a>  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" alt="Arduino" width="55" height="45"/></a> <a href="https://it.wikipedia.org/wiki/Fortran" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_fortran_icon_130596.png" alt="Fortran" width="45" height="45"/></a> <a href="https://www.putty.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PuTTY_Icon.svg/2048px-PuTTY_Icon.svg.png" alt="Putty" width="45" height="45"/></a> <a href="https://www.teamviewer.com/it/?utm_source=google&utm_medium=cpc&utm_campaign=it%7Cb%7Cpr%7C22%7Coct%7Ctv-core-brand-only-exact-sn%7Cnew%7Ct0%7C0&utm_content=Exact&utm_term=teamviewer&gad_source=1&gclid=Cj0KCQjw_qexBhCoARIsAFgBletQyjDdneEVSxbG7G06a0F3_o41FfXuHA4WhHJ-ilYPTmANb73o_9EaAplWEALw_wcB" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/TeamViewer_Logo_Icon_Only.svg" alt="TeamViewer" width="45" height="45"/></a> <a href="https://learn.microsoft.com/it-it/windows/wsl/" target="_blank" rel="noreferrer"><img src="https://store-images.s-microsoft.com/image/apps.61786.14131597032361940.38d2a067-3798-455f-934a-f69935156b3d.eb49d3ac-e311-4e6f-b89b-f1fe8db9d73b" alt="WSL" width="45" height="45"/></a><a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/6884283?s=200&v=4" alt="SWI-Prolog" width="45" height="45"/></a><a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vsCode" width="45" height="45"/></a><a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer"><img src="https://freesvg.org/img/1661420472npp.png" alt="Npp" width="50" height="50"/></a>
-<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit learn" width="50" height="50"/></a>
-<a href="https://zed.dev/" target="_blank" rel="noreferrer"><img src="https://zed.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstable-app-logo.9b5f959f.png&w=384&q=75" alt="Scikit learn" width="50" height="50"/></a><br><br>
-  
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Perro2110)](https://git.io/awesome-stats-card)
+```haskell
+import University.Ferrara
+import ACLAI.Lab          (sole, symbolicLearning)
+import qualified Logic.Symbolic as AI
+
+data Developer = Developer
+  { name    :: String
+  , origin  :: String
+  , uptime  :: Years
+  , focus   :: [Topic]
+  , hobby   :: [Passion]
+  } deriving (Show, Eq)
+
+me :: Developer
+me = Developer
+  { name   = "Marco Perrotta"
+  , origin = "Italy"
+  , uptime = 21
+  , focus  = ["Symbolic AI", "Machine Learning", "Logic for CS"]
+  , hobby  = ["Playing with different OS", "Formal logic", "ML research"]
+  }
+```
+
+---
+
+## `type Language = Favourite`
+
+```haskell
+type Favourite = [Language]
+
+myLanguages :: Favourite
+myLanguages = ["Gleam", "C", "Julia", "Haskell"]
+  -- naturally a conjunction of passions: ∧ ∧ ∧
+
+toolchain :: [Tool]
+toolchain =
+  -- languages
+  [ "Gleam", "C", "Julia", "Haskell"
+  , "Python", "Go", "Java", "Bash", "PHP"
+  , "Prolog", "MIPS ASM", "R", "MATLAB", "Fortran"
+  , "LaTeX", "HTML", "CSS", "SQL", "Arduino"
+  -- frameworks & libraries
+  , "Laravel", "scikit-learn", "Angular"
+  -- editors & environments
+  , "VSCode", "Notepad++", "tmux"
+  -- tools & platforms
+  , "Git", "WSL", "PuTTY", "TeamViewer", "JAndroid"
+  ]
+```
+
+<p align="center">
+  <!-- favourite languages -->
+  <a href="https://gleam.run"><img src="https://gleam.run/images/lucy/lucy.svg" width="40" title="Gleam"/></a>&nbsp;
+  <a href="https://www.haskell.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="40" title="Haskell"/></a>&nbsp;
+  <a href="https://julialang.org/"><img src="https://github.com/Perro2110/Perro2110/blob/main/waving-flag.gif" width="40" title="Julia"/></a>&nbsp;
+  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" title="C"/></a>&nbsp;
+  <!-- languages -->
+  <a href="https://go.dev"><img src="https://go.dev/doc/gopher/gopherdrink.png" width="40" title="Go"/></a>&nbsp;
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/></a>&nbsp;
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java"/></a>&nbsp;
+  <a href="https://www.swi-prolog.org/"><img src="https://avatars.githubusercontent.com/u/6884283?s=200&v=4" width="40" title="SWI-Prolog"/></a>&nbsp;
+  <a href="https://www.gnu.org/software/bash/"><img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" width="40" title="Bash"/></a>&nbsp;
+  <a href="https://www.php.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="40" title="PHP"/></a>&nbsp;
+  <a href="https://courses.missouristate.edu/kenvollmar/mars/download.htm"><img src="https://www.robertwinkler.com/projects/mips_book/images/mips_book.png" width="40" title="MIPS ASM"/></a>&nbsp;
+  <a href="https://www.mathworks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" title="MATLAB"/></a>&nbsp;
+  <a href="https://www.r-project.org/"><img src="https://www.r-project.org/logo/Rlogo.png" width="40" title="R"/></a>&nbsp;
+  <a href="https://it.wikipedia.org/wiki/Fortran"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_fortran_icon_130596.png" width="40" title="Fortran"/></a>&nbsp;
+  <a href="https://www.arduino.cc/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" width="40" title="Arduino"/></a>&nbsp;
+  <!-- web -->
+  <a href="https://www.w3.org/html/"><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="40" title="HTML5"/></a>&nbsp;
+  <a href="https://www.w3schools.com/css/"><img src="https://www.geekandjob.com/uploads/wiki/31157387f2ac17b4f700bc4c4c9e8a66.png" width="40" title="CSS3"/></a>&nbsp;
+  <a href="https://laravel.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="40" title="Laravel"/></a>&nbsp;
+  <!-- data / math -->
+  <a href="https://it.wikipedia.org/wiki/Structured_Query_Language"><img src="https://static.vecteezy.com/system/resources/thumbnails/036/044/336/small_2x/sql-database-icon-logo-design-ui-or-ux-app-png.png" width="55" title="SQL"/></a>&nbsp;
+  <a href="https://www.mysql.com/products/workbench/"><img src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg" width="40" title="LaTeX"/></a>&nbsp;
+  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="scikit-learn"/></a>&nbsp;
+  <!-- editors -->
+  <a href="https://code.visualstudio.com"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40" title="VSCode"/></a>&nbsp;
+  <a href="https://zed.dev/"><img src="https://zed.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstable-app-logo.9b5f959f.png&w=128&q=75" width="40" title="Zed"/></a>&nbsp;
+  <a href="https://notepad-plus-plus.org/"><img src="https://freesvg.org/img/1661420472npp.png" width="40" title="Notepad++"/></a>&nbsp;
+  <a href="https://github.com/tmux/tmux/wiki"><img src="https://cdn.worldvectorlogo.com/logos/tmux.svg" width="40" title="tmux"/></a>&nbsp;
+  <!-- tools & platforms -->
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/></a>&nbsp;
+  <a href="https://learn.microsoft.com/it-it/windows/wsl/"><img src="https://store-images.s-microsoft.com/image/apps.61786.14131597032361940.38d2a067-3798-455f-934a-f69935156b3d.eb49d3ac-e311-4e6f-b89b-f1fe8db9d73b" width="40" title="WSL"/></a>&nbsp;
+  <a href="https://www.putty.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PuTTY_Icon.svg/2048px-PuTTY_Icon.svg.png" width="40" title="PuTTY"/></a>&nbsp;
+  <a href="https://www.teamviewer.com/it/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/TeamViewer_Logo_Icon_Only.svg" width="40" title="TeamViewer"/></a>&nbsp;
+  <a href="https://developer.android.com"><img src="https://developer.android.com/images/logos/android.svg" width="40" title="Android"/></a>
+</p>
+
+---
+
+## `sole :: IO Research`
+
+```haskell
+sole :: IO Research
+sole = do
+  lab       <- joinLab "ACLAI"
+  -- Applied Computational Logic and Artificial Intelligence
+  -- Dept. of Mathematics and Computer Science, University of Ferrara
+  framework <- develop "SOLE"
+  -- SymbOlic LEarning framework
+  return $ framework <> lab
+```
+
+> *"Currently working in the ACLAI Laboratory, focusing on the development*
+> *of the SOLE (SymbOlic LEarning) framework."*
+
+---
+
+## `reach :: Channel -> Maybe Marco`
+
+```haskell
+reach :: Channel -> Maybe Marco
+reach Email    = Just "perrottamarco2011@gmail.com"
+reach LinkedIn = Just "linkedin.com/in/marco-perrotta-b159b6244"
+reach Reddit   = Just "DarkAltruistic9560"
+reach GitHub   = Just "Perro2110"
+reach _        = Nothing
+```
+
+---
+
+## `ghStats :: IO ()`
+
+<p align="center">
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Perro2110" alt="GitHub Stats"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub><code>-- EOF :: Marco.Perrotta</code></sub>
+</p>
