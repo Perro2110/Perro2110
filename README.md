@@ -38,7 +38,7 @@
        ) ( (                  
      _______)_                📫 How_to_reach_me
   .-'---------|               --------
- ( C|/\/\/\/\/|               Email: "perrottamarco2011@gmail.com"
+ ( C|/\/\/\/\/|               Email: "perrottamarco2011@gmail.com" ∨ "marco.perrotta@edu.unife.it"
   '-./\/\/\/\/|               Linkedin: "https://www.linkedin.com/in/marco-perrotta-b159b6244/"
     '_________'               Reddit: "DarkAltruistic9560"
      '_______'                
